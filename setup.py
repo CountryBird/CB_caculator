@@ -10,7 +10,7 @@ setuptools.setup(
   url='https://github.com/CountryBird/CB_caculator',
   download_url='https://github.com/CountryBird/CB_caculator/releases/tag/v0.1.0',
   install_requires=['pytest'],
-  long_description='oss-dev my calc'
+  long_description='oss-dev my calc',
   long_description_content_type='text/markdown',
   classfiers=[
     "Programming Language :: Python ::3",
