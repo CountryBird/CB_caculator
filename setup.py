@@ -8,7 +8,7 @@ setuptools.setup(
   author='CountryBird',
   author_email='ywsywz123@naver.com',
   url='https://github.com/CountryBird/CB_caculator',
-  download_url #아직 안적어도 됨,
+  download_url='https://github.com/CountryBird/CB_caculator/releases/tag/v0.1.0',
   install_requires=['pytest'],
   long_description='oss-dev my calc'
   long_description_content_type='text/markdown',
